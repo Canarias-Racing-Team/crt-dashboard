@@ -1,7 +1,7 @@
 # crt-dashboard
 
 ![Version](https://img.shields.io/badge/version-2024--25-white?style=for-the-badge)
-[![License](https://img.shields.io/badge/license-GPL_v3.0-blue?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge)](LICENSE)
 [![Autor](https://img.shields.io/badge/autor-Tomás_Pino_Pérez-yellow?style=for-the-badge)](https://github.com/tomas2p)
 
 Dashboard del vehículo implementado en una pantalla **Nextion**.
