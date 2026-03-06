@@ -26,6 +26,6 @@ Este repositorio contiene los recursos necesarios para el funcionamiento del das
 
 ## Uso
 
-1. Abrir el archivo `.HMI` en el **Nextion Editor** para modificar la interfaz.
+1. Abrir el archivo `.HMI` en el [**Nextion Editor**](https://nextion.tech/nextion-editor/) para modificar la interfaz.
 2. Compilar el proyecto para generar el archivo `.tft`.
 3. Cargar el `.tft` en la pantalla Nextion mediante tarjeta microSD o conexión directa.
